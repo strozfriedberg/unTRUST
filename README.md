@@ -34,7 +34,7 @@ Requirements:
   4. OS utilities: gcc, git, pkgconfigm, cmake, automake, autoconf, libtool, Xcode 5.x, tar
 
 Notes:
-  1. This will create files in the curret working directory.
+  1. This will create files in the current working directory.
   2. This will offer to completely shred temp files it creates.
 
 Usage:
