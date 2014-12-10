@@ -53,7 +53,7 @@ check_ret
 echo "Done."
 
 echo "Installing Cython"
-sudo pip install cython
+sudo pip install Cython
 check_ret
 echo "Done"
 
